@@ -1,0 +1,10 @@
+PGD           = 8 000 000
+QLCA          = 4 000 000
+CAPTAIN       = 1 200 000
+CAPTAIN_TOP20 = 2 000 000
+CAPTAIN_TOP10 = 3 000 000
+CA            = 500 000
+CA_TOP50      = 700 000
+CA_TOP40      = 900 000
+CA_TOP20      = 1 200 000
+CA_TOP10      = 1 500 000
